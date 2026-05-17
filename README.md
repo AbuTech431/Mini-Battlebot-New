@@ -19,4 +19,6 @@ This robot is designed for micro-robotics competitions. The main chassis holds f
 This one is Photo Of wiring Diagram!
 <img width="1565" height="965" alt="Screenshot 2026-05-17 203534" src="https://github.com/user-attachments/assets/d873d755-b600-40d1-8992-d4d57e1b1222" />
 
-https://www.tinkercad.com/things/duXsrozuZg3-mighty-wolt-inari/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+## CAD & 3D Design
+* [Tinkercad Public Link](https://www.tinkercad.com/things/duXsrozuZg3-mighty-wolt-inari)
+* CAD Source File: `Mighty Wolt-Inari.step` is uploaded to this repository.
